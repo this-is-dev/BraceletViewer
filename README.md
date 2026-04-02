@@ -19,7 +19,7 @@ These all have on-screen buttons as well if you prefer that
 
 # How to install
 Well if you're a layman that doesn't have python installed on your computer, I've set up an .exe for you to make it very simple to use
-1. Download the .zip file from (Put link here after I set up the release page)
+1. Download the .zip file from [here](https://github.com/this-is-dev/BraceletViewer/releases/tag/Main)
 2. Unzip it to the desired location
 3. You're done! Open the .exe file and you're good to go :)
 
