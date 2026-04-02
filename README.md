@@ -5,7 +5,7 @@ A tool for keeping track of the row you're on while making a friendship bracelet
 # Features
 - Open any bracelet file in image format (.png, jpg, etc.)
 - Customizable overlays, don't like the pre-made ones? Just make your own and put them in the overlays folder!
-- Customizable overlay start position. Does your bracelet design not
+- Customizable overlay start position. Does your bracelet design not fit with the default one I set? Just set your own start point!
 - Customizable increment, if the overlay moves too much or not enough when you jump to the next line, you can just change it until it works!
 - IT SAVES YOUR SPOT!!! If you close the program or your computer crashes or anything else happens, so long as you don't delete the save data file, your progress will be saved!
 
